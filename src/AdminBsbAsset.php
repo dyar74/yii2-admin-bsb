@@ -22,7 +22,7 @@ class AdminBsbAsset extends \yii\web\AssetBundle
     /**
      * @var string
      */
-    public $sourcePath = '@vendor/bower/adminbsb-materialdesign';
+    public $sourcePath = '@vendor/bower-asset/adminbsb-materialdesign';
 
     /**
      * @var array
